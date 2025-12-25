@@ -8,7 +8,7 @@
 
 Most quote APIs are generic. **Vibe Affirmations** serves content based on the *mood* or *context* of your user. whether they need to focus, chill out, or get hyped up.
 
-### 🚀 [**Get Your Free API Key Here**]([INSERT_YOUR_RAPIDAPI_LINK_HERE])
+### 🚀 [**Get Your Free API Key Here**](https://rapidapi.com/user/apiarylabs)
 
 ---
 
